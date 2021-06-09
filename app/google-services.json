@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21234240345",
+    "project_id": "raspbpi-face",
+    "storage_bucket": "raspbpi-face.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21234240345:android:71a23a9c2b1d826293da48",
+        "android_client_info": {
+          "package_name": "com.example.growth4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21234240345-t690440kvss615gkq5omdi2vbovsvj40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkgDY964bHpkchhInA5ydTWnsLktC4AeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21234240345-t690440kvss615gkq5omdi2vbovsvj40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
